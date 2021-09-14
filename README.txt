@@ -4,7 +4,7 @@ Credits:
 
 	Design: 		Andres Owens
 	
-	Demo Images: 	Unsplash (unsplash.com)
+	Demo Images: 		Unsplash (unsplash.com)
 
 	Icons:			Font Awesome (fontawesome.io)
 
